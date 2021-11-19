@@ -1,0 +1,15 @@
+
+/* Class = "UINavigationItem"; title = "Food Delivery"; ObjectID = "CVK-bU-ngG"; */
+"CVK-bU-ngG.title" = "Food Delivery";
+
+/* Class = "UIButton"; configuration.title = "Order"; ObjectID = "DqT-Wg-fEB"; */
+"DqT-Wg-fEB.configuration.title" = "Order";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DqT-Wg-fEB"; */
+"DqT-Wg-fEB.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Go to Cart"; ObjectID = "mnr-Rs-3hs"; */
+"mnr-Rs-3hs.configuration.title" = "Go to Cart";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mnr-Rs-3hs"; */
+"mnr-Rs-3hs.normalTitle" = "Button";
